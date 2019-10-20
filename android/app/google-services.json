@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355134401494",
+    "firebase_url": "https://hotspot-b22a6.firebaseio.com",
+    "project_id": "hotspot-b22a6",
+    "storage_bucket": "hotspot-b22a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355134401494:android:ce68e5f3f55df7aeb4d277",
+        "android_client_info": {
+          "package_name": "com.etienneesiea4amobile.hotspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355134401494-cc7lvmi3348id89lqi3lrr8qidqvva2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYWzKkggsJkPG6f-5rSEY-e9IEY6UzJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355134401494-cc7lvmi3348id89lqi3lrr8qidqvva2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355134401494-obvi2ak6krm2pmifjiq6ac89rmk4s7l7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etienneesiea4amobile.hotspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
